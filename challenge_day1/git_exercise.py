@@ -52,14 +52,9 @@ print(gur_story2.gur_p2())
 #Act 3
 print("100 years later. Everyone’s dead, and its the afterlife")
 #p1
-<<<<<<< HEAD
-print(celia_story_3.py.text())
-#p2
-=======
 
 #paragraph 2: sabrina
 print(sabrina.text3())
->>>>>>> 3dcde64784a2fd7053ad5ec4b67900afc563ac8f
 
 #p3
 print(maria_story3.text_15())
