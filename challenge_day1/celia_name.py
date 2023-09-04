@@ -1,6 +1,4 @@
 def name():
-    name = input("What is your name?")
+    print('Celia')
 
-    print(name)
-
-name()
+print(name())
