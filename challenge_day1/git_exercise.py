@@ -3,13 +3,14 @@ import maria_string
 import celia_name
 import emily
 import gur_string
+import carine
 
-def team_introduction():
-    return "This is Team Trashmasters. We are " + sabrina.sabrina_name() + ", " + maria_string.marias_name() + ", " + celia_name.name() + ", " + gur_string.gur_name() + ", and " + emily.emily() + "."
+print(sabrina.team_introduction(carine.carine_name(), celia_name.name(), emily.emily(), gur_string.gur_name(), maria_string.marias_name(), sabrina.sabrina_name()))
 
-print(team_introduction())
+#imports for the story:
+import celia_story1 # paragraph 1 act 1
 
 #story:
 print("Act 1: The beginning of the night")
 #paragraph 1: celia
-print("Once upon a time Max, Adam, and Steve all went out to have dinner at an Italian Restaurant. When they were there they ordered a lot of food and drinks. Next too them was a table where Amelia, Eva, and Charlotte were celabrating Eva’s birthday. They also ordered a lot of food and drinks. The night was going to be long for Max, Adam, Steve, Amelia, Eva, and Charlotte. ")
+print(celia_story1.text())
