@@ -1,2 +1,2 @@
 def gur_name():
-    return "GUR"
+    return "Gur"
