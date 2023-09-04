@@ -9,7 +9,7 @@ print(sabrina.team_introduction(carine.carine_name(), celia_name.name(), emily.e
 
 #imports for the story:
 import celia_story1 # paragraph 1 act 1
-
+import celia_story2 # paragrasph 1 act 2
 import maria_story1 # paragraph 3 act 1
 import maria_story2 # paragraph 9 act 2
 import maria_story3 # paragraph 15 act 3
@@ -30,11 +30,10 @@ print(maria_story1.text_3())
 #paragraph 4: gur
 print(gur_story1.gur_p1())
 
-#Act 2
-print("Act 2: The bird chronicles")
-#p1
 
-#p2
+#act2
+#paragraph 1: celia
+print(celia_story2.text2())
 
 #p3
 print(maria_story2.text_9())
