@@ -10,6 +10,7 @@ print(sabrina.team_introduction(carine.carine_name(), celia_name.name(), emily.e
 #imports for the story:
 import celia_story1 # paragraph 1 act 1
 import celia_story2 # paragrasph 1 act 2
+import celia_story_3 # paragraph 1 aact 3
 import maria_story1 # paragraph 3 act 1
 import maria_story2 # paragraph 9 act 2
 import maria_story3 # paragraph 15 act 3
@@ -45,7 +46,7 @@ print(gur_story2.gur_p2())
 #Act 3
 print("100 years later. Everyone’s dead, and its the afterlife")
 #p1
-
+print(celia_story_3.py.text())
 #p2
 
 #p3
