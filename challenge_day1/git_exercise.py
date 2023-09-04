@@ -20,7 +20,7 @@ import gur_story3 # paragraph 16 act 3
 
 
 #story:
-print("Act 1: The beginning of the night")
+print(sabrina.act1())
 #paragraph 1: celia
 print(celia_story1.text())
 
@@ -35,6 +35,7 @@ print(gur_story1.gur_p1())
 
 
 #act2
+print(sabrina.act2())
 #paragraph 1: celia
 print(celia_story2.text2())
 
@@ -50,9 +51,9 @@ print(gur_story2.gur_p2())
 #p6
 
 #Act 3
-print("100 years later. Everyone’s dead, and its the afterlife")
+print(sabrina.act3())
 #p1
-print(celia_story_3.py.text())
+print(celia_story_3.text())
 #p2
 
 #p3

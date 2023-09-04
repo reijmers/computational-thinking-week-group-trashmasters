@@ -14,3 +14,11 @@ def text2():
 def text3():
     return "Peter says, “your life on Earth was a waste. You didn’t pay. I needed money. A waiter lives off tips. Now you suffer in eternal karma.” The dead bird spirits are really sad. Except birds have no sense of emotions. They’re birds. Max, Charlotte, Eva, Steve, Adam and Amelia have blank looks on their heads."
     
+def act1():
+    return "Act 1: The beginning of the night"
+
+def act2():
+    return "Act 2: Fast forward 1 hour."
+
+def act3():
+    return "Act 3: 100 years later. Everyone’s dead, and it's the afterlife."
