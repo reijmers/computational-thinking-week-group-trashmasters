@@ -15,7 +15,8 @@ import maria_story2 # paragraph 9 act 2
 import maria_story3 # paragraph 15 act 3
 
 import gur_story1 # paragraph 4 act 1
-
+import gur_story2 # paragraph 10 act 2
+import gur_story3 # paragraph 16 act 3
 
 
 #story:
@@ -38,7 +39,7 @@ print("Act 2: The bird chronicles")
 #p3
 print(maria_story2.text_9())
 #p4
-
+print(gur_story2.gur_p2())
 #p5
 
 #p6
@@ -52,7 +53,7 @@ print("100 years later. Everyone’s dead, and its the afterlife")
 #p3
 print(maria_story3.text_15())
 #p4
-
+print(gur_story3.gur_p3())
 #p5
 
 #p6
