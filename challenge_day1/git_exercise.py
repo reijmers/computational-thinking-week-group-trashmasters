@@ -8,7 +8,7 @@ import celia_name
 
 def team_introduction():
 <<<<<<< HEAD
-    return print("This is Team Trashmasters. We are", sabrina.sabrina_name(), maria_string.marias_name(), gur_string())
+    return print("This is Team Trashmasters. We are", sabrina.sabrina_name(), maria_string.marias_name(), gur_string.gur_name))
 =======
     return print("This is Team Trashmasters. We are", sabrina.sabrina_name(), maria_string.marias_name(), celia_name.name())
 >>>>>>> 2c9cdca0615f6f3876a6b8b6fdbb535a8ed013fa
