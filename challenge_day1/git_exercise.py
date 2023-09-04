@@ -11,10 +11,11 @@ print(sabrina.team_introduction(carine.carine_name(), celia_name.name(), emily.e
 import celia_story1 # paragraph 1 act 1
 
 import maria_story1 # paragraph 3 act 1
+import maria_story2 # paragraph 9 act 2
+import maria_story3 # paragraph 15 act 3
 
 import gur_story1 # paragraph 4 act 1
 
-import celia_story2 #paragraph 1 act 2
 
 
 #story:
