@@ -1,7 +1,7 @@
 import sabrina
 import maria_string
 <<<<<<< HEAD
-import gur_name
+import gur_string
 =======
 import celia_name
 >>>>>>> 2c9cdca0615f6f3876a6b8b6fdbb535a8ed013fa
