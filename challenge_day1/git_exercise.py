@@ -13,7 +13,6 @@ import celia_story2 # paragrasph 1 act 2
 import maria_story1 # paragraph 3 act 1
 import maria_story2 # paragraph 9 act 2
 import maria_story3 # paragraph 15 act 3
-
 import gur_story1 # paragraph 4 act 1
 import gur_story2 # paragraph 10 act 2
 import gur_story3 # paragraph 16 act 3
