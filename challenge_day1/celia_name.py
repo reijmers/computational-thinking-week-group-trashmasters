@@ -1,4 +1,2 @@
 def name():
-    print('Celia')
-
-name()
+    return "Celia"
