@@ -24,3 +24,4 @@ print(maria_story1.text_3())
 
 #paragraph 4: gur
 print(gur_story1.gur_p1())
+
