@@ -24,6 +24,9 @@ print("Act 1: The beginning of the night")
 #paragraph 1: celia
 print(celia_story1.text())
 
+#paragragh 2: sabrina
+print(sabrina.text1())
+
 #paragraph 3: maria
 print(maria_story1.text_3())
 
@@ -34,6 +37,9 @@ print(gur_story1.gur_p1())
 #act2
 #paragraph 1: celia
 print(celia_story2.text2())
+
+#paragraph 2: sabrina
+print(sabrina.text2())
 
 #p3
 print(maria_story2.text_9())
@@ -46,8 +52,14 @@ print(gur_story2.gur_p2())
 #Act 3
 print("100 years later. Everyone’s dead, and its the afterlife")
 #p1
+<<<<<<< HEAD
 print(celia_story_3.py.text())
 #p2
+=======
+
+#paragraph 2: sabrina
+print(sabrina.text3())
+>>>>>>> 3dcde64784a2fd7053ad5ec4b67900afc563ac8f
 
 #p3
 print(maria_story3.text_15())
