@@ -1,5 +1,5 @@
 # function returning name as string
-def my_name():
-    return "Maria"
+def marias_name():
+    return "maria"
 
 
