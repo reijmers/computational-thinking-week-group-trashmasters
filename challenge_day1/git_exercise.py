@@ -1,2 +1,2 @@
-import sabrina.py
+import sabrina
 
