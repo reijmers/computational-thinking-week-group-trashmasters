@@ -1,0 +1,17 @@
+import pandas as pd
+
+data = pd.read_excel("namesgroups.xlsx")
+
+def solution_station5(name):
+    row = data[data["Name"] == name]
+    if not row.empty:
+        return row.iloc[0]["Groups"]
+    else:
+        return None
+    
+name = "Gur"
+
+group_number = solution_station5(name)
+
+print(group_number)
+
