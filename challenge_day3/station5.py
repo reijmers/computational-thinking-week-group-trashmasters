@@ -23,8 +23,6 @@ def solution_station_5(name):
     return int(ans+1)
     
 
-print(solution_station_5("Ioanna"))
-
 #function outputs the group number that the person is in
 
 
