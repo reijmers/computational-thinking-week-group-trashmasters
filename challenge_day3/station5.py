@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_excel("names&groups.xlsx")
+data = pd.read_excel("namesgroups.xlsx")
 
 def solution_station5(name):
     row = data[data["Name"] == name]
