@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_excel("./challenge_day3/namesgroups.xlsx")
+data = pd.read_excel("./namesgroups.xlsx")
 
 def solution_station_5(name):
     row = data[data["Names"] == name]
@@ -15,5 +15,6 @@ group_number = solution_station_5(name)
 
 print(group_number)
 
+#function outputs the group number that the person is in
 
 
