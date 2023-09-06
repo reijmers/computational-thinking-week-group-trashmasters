@@ -4,10 +4,12 @@ def solution_station_3():
     random_number = random.randint(1, 100)
 
     if random_number % 3 == 0:
-        return "true"
+        return random_number, "true"
     
     else:
-        return "false"
+        return random_number, "false"
     
-result = solution_station_3()
+random_number, result = solution_station_3()
+
+print(f"Input: {random_number}")
 print(f"Output: {result}")
