@@ -1,19 +1,15 @@
 import datetime
 
-def solution_station_2():
-    date_str = input("Enter a date (YYYY-MM_DD): ")
+def solution_station_2(date_str):
 
-    try:
-        date_obj = datetime.datetime.strptime(date_str, "%Y-%m-%d")
+    date_obj = datetime.datetime.strptime(date_str, "%Y-%m-%d")
 
-        day_of_week = date_obj.weekday()
+    day_of_week = date_obj.weekday()
 
-        day_name = ["日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日"][day_of_week]
+    day_name = ["月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "日曜日"]
 
-        return date_str, day_name
+    return day_name[day_of_week]
     
-    except ValueError:
-        return None
+#Takes the day of the year and outputs what day of the week it is in Japanese
+
     
-result = solution_station_2()
-print(f"The day of the week for {date_str} is {day_name}.")
