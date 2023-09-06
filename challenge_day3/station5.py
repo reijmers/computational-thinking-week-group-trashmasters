@@ -8,7 +8,3 @@ def solution_station5(name):
         return row.iloc[0]["Groups"]
     else:
         return None
-    
-
-
-
