@@ -1,9 +1,9 @@
 import pandas as pd
 
-data = pd.read_excel("namesgroups.xlsx")
+data = pd.read_excel("C:\\Users\\Gur Levy\\computational-thinking-week-group-trashmasters\\challenge_day3\\namesgroups.xlsx")
 
-def solution_station5(name):
-    row = data[data["Name"] == name]
+def solution_station_5(name):
+    row = data[data["Names"] == name]
     if not row.empty:
         return row.iloc[0]["Groups"]
     else:
@@ -11,7 +11,9 @@ def solution_station5(name):
     
 name = "Gur"
 
-group_number = solution_station5(name)
+group_number = solution_station_5(name)
 
 print(group_number)
+
+
 
