@@ -4,3 +4,5 @@ def solution_station_4(number):
             return False
     return True
 
+#prime numbers
+#function returns true if prime, and false if composite

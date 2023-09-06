@@ -1,15 +1,10 @@
-import random
-
-def solution_station_3():
-    random_number = random.randint(1, 100)
+def solution_station_3(random_number):
 
     if random_number % 3 == 0:
-        return random_number, "true"
+        return random_number, "True"
     
     else:
-        return random_number, "false"
+        return random_number, "False"
     
-random_number, result = solution_station_3()
-
-print(f"Input: {random_number}")
-print(f"Output: {result}")
+#divisible by 3
+#function outputs true is the input is divisible by 3, otherwise outputs false if false

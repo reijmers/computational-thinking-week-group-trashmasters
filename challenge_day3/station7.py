@@ -16,3 +16,5 @@ def solution_station_7(input: str) -> float:
 
     return output
 
+#function solves the equation
+
