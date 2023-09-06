@@ -8,3 +8,10 @@ def solution_station5(name):
         return row.iloc[0]["Groups"]
     else:
         return None
+    
+name = "Gur"
+
+group_number = solution_station5(name)
+
+print(group_number)
+
