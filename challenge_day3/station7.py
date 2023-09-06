@@ -9,10 +9,10 @@ def solution_station_7(input: str) -> float:
         term_output = 1
         for factor in factors:
             if factor in variables:
-                term_result *= variables[factor]
+                term_output *= variables[factor]
             else:
-                term_result *= float(factor)
-        output += term_result
+                term_output *= float(factor)
+        output += term_output
 
     return output
 
