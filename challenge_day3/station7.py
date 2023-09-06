@@ -14,7 +14,7 @@ def solution_station_7(input: str) -> float:
                 term_output *= float(factor)
         output += term_output
 
-    return output
+    return float(output)
 
 #function solves the equation
 
