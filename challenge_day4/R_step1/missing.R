@@ -7,7 +7,7 @@ if (!requireNamespace("jsonlite", quietly = TRUE)) {
 library(jsonlite)
 
 # Read the JSON file into a data frame
-json_data <- fromJSON("data1.json")
+json_data <- fromJSON("/Users/carinereijmers/Downloads/trashmasters/computational-thinking-week-group-trashmasters/computational-thinking-week-group-trashmasters/computational-thinking-week-group-trashmasters/challenge_day4/testdata/data1.json")
 
 # Convert the 'people' list to a data frame
 people_df <- as.data.frame(json_data$people)
@@ -24,7 +24,7 @@ for(col_name in names(people_df)) {
 }
 
 # Replace the 'people' list in the original data with the modified data frame
-json_data$people <- person_df
+json_data$people <- people_df
 
 # Convert the updated data back to JSON format
 json_text <- toJSON(json_data, pretty = TRUE)
