@@ -1,0 +1,84 @@
+{
+  "people": [
+    {
+      "name": "Ken",
+      "Soft Skills": 9,
+      "Business Skills": 8,
+      "Academic Skills": 10,
+      "Creative Skills": 1,
+      "Technical Skills": 10
+    },
+    {
+      "name": "Uma",
+      "Soft Skills": 7.1429,
+      "Business Skills": 1,
+      "Academic Skills": 9,
+      "Creative Skills": 8,
+      "Technical Skills": 4
+    },
+    {
+      "name": "Yara",
+      "Soft Skills": 7.1429,
+      "Business Skills": 1,
+      "Academic Skills": 9,
+      "Creative Skills": 3,
+      "Technical Skills": 4
+    },
+    {
+      "name": "Karen",
+      "Soft Skills": 7.1429,
+      "Business Skills": 3,
+      "Academic Skills": 8.875,
+      "Creative Skills": 4,
+      "Technical Skills": 7
+    },
+    {
+      "name": "Dave",
+      "Soft Skills": 10,
+      "Business Skills": 4.5,
+      "Academic Skills": 7,
+      "Creative Skills": 7,
+      "Technical Skills": 9
+    },
+    {
+      "name": "Kristen",
+      "Soft Skills": 10,
+      "Business Skills": 8,
+      "Academic Skills": 9,
+      "Creative Skills": 4.5714,
+      "Technical Skills": 7.25
+    },
+    {
+      "name": "Paula",
+      "Soft Skills": 5,
+      "Business Skills": 2,
+      "Academic Skills": 8,
+      "Creative Skills": 1,
+      "Technical Skills": 5
+    },
+    {
+      "name": "Ursula",
+      "Soft Skills": 10,
+      "Business Skills": 6,
+      "Academic Skills": 8.875,
+      "Creative Skills": 4.5714,
+      "Technical Skills": 10
+    },
+    {
+      "name": "Ivy",
+      "Soft Skills": 5,
+      "Business Skills": 7,
+      "Academic Skills": 9,
+      "Creative Skills": 8,
+      "Technical Skills": 7.25
+    },
+    {
+      "name": "Roger",
+      "Soft Skills": 1,
+      "Business Skills": 4.5,
+      "Academic Skills": 10,
+      "Creative Skills": 4.5714,
+      "Technical Skills": 9
+    }
+  ]
+}
