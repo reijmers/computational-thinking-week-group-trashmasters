@@ -44,7 +44,7 @@ func main() {
 	}
 
 	// Create a CSV file
-	csvFile, err := os.Create("data3.csv")
+	csvFile, err := os.Create("../fulldata/data3.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
