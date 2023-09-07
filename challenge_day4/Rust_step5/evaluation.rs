@@ -4,14 +4,14 @@ use std::path::Path;
 use std::fs::OpenOptions;
 
 fn main() -> io::Result<()> {
-    let path = Path::new("C:\\Users\\Gur Levy\\computational-thinking-week-group-trashmasters-1\\challenge_day4\\testdata\\data5.txt");
+    let path = Path::new("C:\\Users\\Gur Levy\\computational-thinking-week-group-trashmasters-1\\challenge_day4\\fulldata\\data5.txt");
     let file = File::open(&path)?;
     let reader = io::BufReader::new(file);
 
     let mut output = OpenOptions::new()
         .write(true)
         .create(true)
-        .open("data6.txt")?;
+        .open("C:\\Users\\Gur Levy\\computational-thinking-week-group-trashmasters-1\\challenge_day4\\fulldata\\data6.txt")?;
 
     for (line_number, line) in reader.lines().enumerate() {
         let line = line?;
