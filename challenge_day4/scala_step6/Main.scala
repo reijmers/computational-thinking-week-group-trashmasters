@@ -22,7 +22,7 @@ object Main {
           s"$line,$comments"
         }
     }
-    Files.write(Paths.get("C:\\Users\\celia\\OneDrive\\Desktop\\computational-thinking-week-group-trashmasters\\challenge_day4\\fulldata\\gata7.txt"), outputLines.mkString("\n").getBytes)
+    Files.write(Paths.get("C:\\Users\\celia\\OneDrive\\Desktop\\computational-thinking-week-group-trashmasters\\challenge_day4\\fulldata\\data7.txt"), outputLines.mkString("\n").getBytes)
 
   }
 }
