@@ -3,7 +3,7 @@ import scala.util.Try
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val filePath = "C:\\Users\\celia\\OneDrive\\Desktop\\computational-thinking-week-group-trashmasters\\challenge_day4\\testdata\\data6.txt"
+    val filePath = "C:\\Users\\celia\\OneDrive\\Desktop\\computational-thinking-week-group-trashmasters\\challenge_day4\\fulldata\\data6.txt"
     val lines = scala.io.Source.fromFile(filePath).getLines().toList
     val outputLines = lines.zipWithIndex.map {
       case (line, 0) => s"$line,Comments"
@@ -23,7 +23,7 @@ object Main {
         }
     }
 
-    Files.write(Paths.get("data7.txt"), outputLines.mkString("\n").getBytes)
+    Files.write(Paths.get("Users\\celia\\OneDrive\\Desktop\\computational-thinking-week-group-trashmasters\\challenge_day4\\fulldata\\data7.txt"), outputLines.mkString("\n").getBytes)
 
   }
 }
