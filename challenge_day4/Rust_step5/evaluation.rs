@@ -4,7 +4,7 @@ use std::path::Path;
 use std::fs::OpenOptions;
 
 fn main() -> io::Result<()> {
-    let path = Path::new("C:\Users\Gur Levy\computational-thinking-wee-group-trashmasters\data5.txt");
+    let path = Path::new("C:\\Users\\Gur Levy\\computational-thinking-week-group-trashmasters-1\\challenge_day4\\testdata\\data5.txt");
     let file = File::open(&path)?;
     let reader = io::BufReader::new(file);
 
@@ -63,4 +63,3 @@ fn main() -> io::Result<()> {
 
     Ok(())
 }
-
