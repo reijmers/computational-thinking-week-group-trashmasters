@@ -10,7 +10,7 @@ import (
 
 type Person struct {
 	Name            string  `json:"name"`
-	TechnicalSkills float64 `json:"Technical methods"`
+	TechnicalSkills float64 `json:"Technical Skills"`
 	SoftSkills      float64 `json:"Soft Skills"`
 	BusinessSkills  float64 `json:"Business Skills"`
 	CreativeSkills  float64 `json:"Creative Skills"`
@@ -44,7 +44,7 @@ func main() {
 	}
 
 	// Create a CSV file
-	csvFile, err := os.Create("data3.csv")
+	csvFile, err := os.Create("../fulldata/data3.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
