@@ -1,0 +1,715 @@
+{
+    "people": [
+        {
+            "name": "Leo",
+            "Academic Skills": 6,
+            "Technical Skills": 8,
+            "Creative Skills": 9,
+            "Business Skills": 8,
+            "Soft Skills": 10
+        },
+        {
+            "name": "Liam",
+            "Soft Skills": 8,
+            "Academic Skills": 9,
+            "Creative Skills": 8,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Neil",
+            "Business Skills": 7,
+            "Academic Skills": 9,
+            "Technical Skills": 10,
+            "Creative Skills": 8,
+            "Soft Skills": 4
+        },
+        {
+            "name": "Wesley",
+            "Business Skills": 7,
+            "Technical Skills": 1,
+            "Academic Skills": 7,
+            "Soft Skills": 9
+        },
+        {
+            "name": "Hugo",
+            "Business Skills": 1,
+            "Technical Skills": 9,
+            "Creative Skills": 1,
+            "Academic Skills": 2,
+            "Soft Skills": 3
+        },
+        {
+            "name": "Kathy",
+            "Academic Skills": 9,
+            "Soft Skills": 3,
+            "Technical Skills": 5,
+            "Creative Skills": 6,
+            "Business Skills": 10
+        },
+        {
+            "name": "Emily",
+            "Soft Skills": 9,
+            "Business Skills": 2,
+            "Creative Skills": 9
+        },
+        {
+            "name": "Bob",
+            "Business Skills": 6,
+            "Technical Skills": 5,
+            "Creative Skills": 9,
+            "Soft Skills": 4
+        },
+        {
+            "name": "Lenny",
+            "Business Skills": 6,
+            "Soft Skills": 9,
+            "Academic Skills": 6,
+            "Creative Skills": 5
+        },
+        {
+            "name": "Jeff",
+            "Soft Skills": 1,
+            "Technical Skills": 7,
+            "Academic Skills": 10,
+            "Creative Skills": 10,
+            "Business Skills": 1
+        },
+        {
+            "name": "Nina",
+            "Technical Skills": 1,
+            "Business Skills": 4,
+            "Creative Skills": 8,
+            "Soft Skills": 10,
+            "Academic Skills": 8
+        },
+        {
+            "name": "Mabel",
+            "Business Skills": 10,
+            "Creative Skills": 7,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Kristen",
+            "Academic Skills": 10,
+            "Technical Skills": 5,
+            "Creative Skills": 8,
+            "Soft Skills": 3,
+            "Business Skills": 10
+        },
+        {
+            "name": "Gail",
+            "Business Skills": 1,
+            "Soft Skills": 8,
+            "Creative Skills": 9,
+            "Technical Skills": 6,
+            "Academic Skills": 5
+        },
+        {
+            "name": "Yasmine",
+            "Academic Skills": 2,
+            "Business Skills": 9,
+            "Technical Skills": 2,
+            "Creative Skills": 9
+        },
+        {
+            "name": "Tim",
+            "Creative Skills": 1,
+            "Business Skills": 5,
+            "Technical Skills": 10,
+            "Academic Skills": 3,
+            "Soft Skills": 6
+        },
+        {
+            "name": "Yvonne",
+            "Soft Skills": 9,
+            "Creative Skills": 9,
+            "Business Skills": 8
+        },
+        {
+            "name": "Owen",
+            "Academic Skills": 10,
+            "Creative Skills": 8,
+            "Technical Skills": 2,
+            "Business Skills": 6,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Fay",
+            "Creative Skills": 9,
+            "Soft Skills": 1,
+            "Business Skills": 4,
+            "Academic Skills": 2,
+            "Technical Skills": 1
+        },
+        {
+            "name": "Jack",
+            "Soft Skills": 3,
+            "Technical Skills": 1,
+            "Business Skills": 9
+        },
+        {
+            "name": "Norm",
+            "Creative Skills": 6,
+            "Technical Skills": 10,
+            "Business Skills": 2,
+            "Soft Skills": 5,
+            "Academic Skills": 10
+        },
+        {
+            "name": "Duke",
+            "Creative Skills": 1,
+            "Academic Skills": 6,
+            "Technical Skills": 3,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Tracy",
+            "Business Skills": 9,
+            "Creative Skills": 8,
+            "Technical Skills": 10,
+            "Academic Skills": 8,
+            "Soft Skills": 9
+        },
+        {
+            "name": "Rose",
+            "Creative Skills": 3,
+            "Technical Skills": 10,
+            "Academic Skills": 9
+        },
+        {
+            "name": "Steve",
+            "Creative Skills": 8,
+            "Business Skills": 6,
+            "Academic Skills": 9,
+            "Soft Skills": 6,
+            "Technical Skills": 2
+        },
+        {
+            "name": "Irene",
+            "Academic Skills": 5,
+            "Creative Skills": 9,
+            "Soft Skills": 8,
+            "Business Skills": 10,
+            "Technical Skills": 7
+        },
+        {
+            "name": "Roger",
+            "Technical Skills": 8,
+            "Soft Skills": 1,
+            "Academic Skills": 9,
+            "Business Skills": 4,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Sam",
+            "Technical Skills": 8,
+            "Soft Skills": 8,
+            "Academic Skills": 9
+        },
+        {
+            "name": "Victor",
+            "Technical Skills": 10,
+            "Soft Skills": 2,
+            "Creative Skills": 8,
+            "Academic Skills": 2,
+            "Business Skills": 2
+        },
+        {
+            "name": "Gwen",
+            "Creative Skills": 9,
+            "Technical Skills": 9,
+            "Business Skills": 3,
+            "Soft Skills": 9,
+            "Academic Skills": 10
+        },
+        {
+            "name": "Otis",
+            "Technical Skills": 6,
+            "Soft Skills": 5,
+            "Business Skills": 8,
+            "Academic Skills": 3,
+            "Creative Skills": 4
+        },
+        {
+            "name": "Quinn",
+            "Soft Skills": 3,
+            "Business Skills": 5,
+            "Technical Skills": 9
+        },
+        {
+            "name": "Ian",
+            "Soft Skills": 8,
+            "Creative Skills": 9,
+            "Technical Skills": 8,
+            "Business Skills": 10,
+            "Academic Skills": 10
+        },
+        {
+            "name": "Megan",
+            "Academic Skills": 8,
+            "Business Skills": 2,
+            "Technical Skills": 2,
+            "Creative Skills": 6,
+            "Soft Skills": 4
+        },
+        {
+            "name": "Eve",
+            "Creative Skills": 10,
+            "Soft Skills": 10,
+            "Academic Skills": 9
+        },
+        {
+            "name": "Kim",
+            "Soft Skills": 9,
+            "Business Skills": 9,
+            "Creative Skills": 10,
+            "Technical Skills": 9
+        },
+        {
+            "name": "Xiomara",
+            "Academic Skills": 10,
+            "Soft Skills": 2,
+            "Technical Skills": 8,
+            "Creative Skills": 5
+        },
+        {
+            "name": "Louis",
+            "Technical Skills": 10,
+            "Business Skills": 2,
+            "Creative Skills": 8,
+            "Academic Skills": 8
+        },
+        {
+            "name": "Leonard",
+            "Creative Skills": 1,
+            "Soft Skills": 5,
+            "Business Skills": 10,
+            "Academic Skills": 10,
+            "Technical Skills": 8
+        },
+        {
+            "name": "Mindy",
+            "Soft Skills": 8,
+            "Creative Skills": 8,
+            "Business Skills": 6,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Trevor",
+            "Academic Skills": 10,
+            "Soft Skills": 5,
+            "Technical Skills": 7,
+            "Creative Skills": 10,
+            "Business Skills": 9
+        },
+        {
+            "name": "Oscar",
+            "Business Skills": 6,
+            "Technical Skills": 9,
+            "Soft Skills": 8,
+            "Creative Skills": 3
+        },
+        {
+            "name": "Pam",
+            "Soft Skills": 10,
+            "Academic Skills": 5,
+            "Technical Skills": 7,
+            "Business Skills": 8,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Grace",
+            "Soft Skills": 7,
+            "Technical Skills": 5,
+            "Business Skills": 3,
+            "Academic Skills": 1,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Upton",
+            "Business Skills": 10,
+            "Academic Skills": 8,
+            "Soft Skills": 9,
+            "Creative Skills": 10
+        },
+        {
+            "name": "Avery",
+            "Technical Skills": 9,
+            "Academic Skills": 10,
+            "Creative Skills": 9,
+            "Soft Skills": 3
+        },
+        {
+            "name": "Howard",
+            "Soft Skills": 9,
+            "Creative Skills": 9,
+            "Technical Skills": 3,
+            "Academic Skills": 8
+        },
+        {
+            "name": "Daisy",
+            "Business Skills": 9,
+            "Academic Skills": 1,
+            "Soft Skills": 7,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Dave",
+            "Creative Skills": 2,
+            "Academic Skills": 4,
+            "Business Skills": 2,
+            "Soft Skills": 6
+        },
+        {
+            "name": "Ursula",
+            "Soft Skills": 6,
+            "Business Skills": 3,
+            "Creative Skills": 10,
+            "Academic Skills": 9,
+            "Technical Skills": 1
+        },
+        {
+            "name": "Bill",
+            "Academic Skills": 1,
+            "Business Skills": 8,
+            "Creative Skills": 10
+        },
+        {
+            "name": "Vivian",
+            "Academic Skills": 8,
+            "Soft Skills": 4,
+            "Creative Skills": 10,
+            "Business Skills": 4
+        },
+        {
+            "name": "Xyla",
+            "Business Skills": 8,
+            "Academic Skills": 9,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Ulrich",
+            "Academic Skills": 10,
+            "Soft Skills": 3,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Katie",
+            "Creative Skills": 10,
+            "Technical Skills": 6,
+            "Academic Skills": 4
+        },
+        {
+            "name": "Preston",
+            "Soft Skills": 8,
+            "Business Skills": 9,
+            "Technical Skills": 4,
+            "Academic Skills": 10,
+            "Creative Skills": 4
+        },
+        {
+            "name": "Queenie",
+            "Academic Skills": 9,
+            "Creative Skills": 5,
+            "Technical Skills": 10,
+            "Business Skills": 9
+        },
+        {
+            "name": "Gerald",
+            "Academic Skills": 1,
+            "Business Skills": 4,
+            "Creative Skills": 9,
+            "Technical Skills": 2,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Isaac",
+            "Business Skills": 6,
+            "Technical Skills": 3,
+            "Soft Skills": 8,
+            "Creative Skills": 10
+        },
+        {
+            "name": "Nick",
+            "Business Skills": 1,
+            "Soft Skills": 8,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Gina",
+            "Creative Skills": 7,
+            "Business Skills": 5,
+            "Academic Skills": 9,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Alice",
+            "Technical Skills": 9,
+            "Soft Skills": 10,
+            "Business Skills": 6,
+            "Academic Skills": 9
+        },
+        {
+            "name": "Arthur",
+            "Business Skills": 6,
+            "Technical Skills": 10,
+            "Academic Skills": 1
+        },
+        {
+            "name": "Catherine",
+            "Technical Skills": 10,
+            "Creative Skills": 2,
+            "Academic Skills": 10,
+            "Business Skills": 10
+        },
+        {
+            "name": "Walter",
+            "Technical Skills": 10,
+            "Business Skills": 10,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Amy",
+            "Soft Skills": 8,
+            "Academic Skills": 10,
+            "Business Skills": 10,
+            "Technical Skills": 6,
+            "Creative Skills": 10
+        },
+        {
+            "name": "Wilma",
+            "Creative Skills": 10,
+            "Technical Skills": 8,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Ned",
+            "Academic Skills": 8,
+            "Creative Skills": 8,
+            "Business Skills": 9,
+            "Technical Skills": 4,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Vera",
+            "Technical Skills": 7,
+            "Academic Skills": 10,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Ivy",
+            "Creative Skills": 2,
+            "Academic Skills": 5,
+            "Technical Skills": 4
+        },
+        {
+            "name": "Susie",
+            "Academic Skills": 7,
+            "Creative Skills": 2,
+            "Soft Skills": 8,
+            "Technical Skills": 8
+        },
+        {
+            "name": "Tina",
+            "Business Skills": 5,
+            "Creative Skills": 6,
+            "Soft Skills": 10,
+            "Technical Skills": 8,
+            "Academic Skills": 6
+        },
+        {
+            "name": "Daniel",
+            "Business Skills": 6,
+            "Academic Skills": 7,
+            "Soft Skills": 2
+        },
+        {
+            "name": "Camille",
+            "Technical Skills": 8,
+            "Creative Skills": 7,
+            "Business Skills": 2
+        },
+        {
+            "name": "Rhonda",
+            "Soft Skills": 8,
+            "Academic Skills": 9,
+            "Business Skills": 8,
+            "Technical Skills": 2
+        },
+        {
+            "name": "Ron",
+            "Academic Skills": 6,
+            "Business Skills": 6,
+            "Soft Skills": 4,
+            "Technical Skills": 6
+        },
+        {
+            "name": "Paul",
+            "Business Skills": 2,
+            "Creative Skills": 4,
+            "Academic Skills": 4
+        },
+        {
+            "name": "Olivia",
+            "Academic Skills": 4,
+            "Business Skills": 3,
+            "Soft Skills": 7,
+            "Technical Skills": 10
+        },
+        {
+            "name": "Tom",
+            "Soft Skills": 9,
+            "Technical Skills": 9,
+            "Business Skills": 9
+        },
+        {
+            "name": "Quincy",
+            "Business Skills": 3,
+            "Creative Skills": 1,
+            "Technical Skills": 6,
+            "Soft Skills": 9
+        },
+        {
+            "name": "Zinnia",
+            "Academic Skills": 10,
+            "Creative Skills": 9,
+            "Business Skills": 9
+        },
+        {
+            "name": "George",
+            "Technical Skills": 8,
+            "Creative Skills": 5,
+            "Soft Skills": 9
+        },
+        {
+            "name": "Ken",
+            "Academic Skills": 9,
+            "Technical Skills": 2,
+            "Business Skills": 8,
+            "Creative Skills": 3
+        },
+        {
+            "name": "Clara",
+            "Academic Skills": 6,
+            "Creative Skills": 10,
+            "Business Skills": 1,
+            "Soft Skills": 6
+        },
+        {
+            "name": "Mary",
+            "Technical Skills": 6,
+            "Soft Skills": 10,
+            "Business Skills": 4,
+            "Creative Skills": 10,
+            "Academic Skills": 3
+        },
+        {
+            "name": "Quasar",
+            "Technical Skills": 4,
+            "Creative Skills": 10,
+            "Academic Skills": 6,
+            "Business Skills": 4,
+            "Soft Skills": 1
+        },
+        {
+            "name": "Yogi",
+            "Business Skills": 6,
+            "Creative Skills": 10,
+            "Soft Skills": 9,
+            "Technical Skills": 1
+        },
+        {
+            "name": "Julian",
+            "Soft Skills": 9,
+            "Technical Skills": 4,
+            "Academic Skills": 4,
+            "Creative Skills": 2,
+            "Business Skills": 1
+        },
+        {
+            "name": "Ulysses",
+            "Technical Skills": 8,
+            "Business Skills": 7,
+            "Creative Skills": 5,
+            "Academic Skills": 10
+        },
+        {
+            "name": "Ulla",
+            "Creative Skills": 2,
+            "Soft Skills": 9,
+            "Business Skills": 10,
+            "Academic Skills": 7
+        },
+        {
+            "name": "Helen",
+            "Soft Skills": 8,
+            "Creative Skills": 9,
+            "Academic Skills": 6,
+            "Business Skills": 10
+        },
+        {
+            "name": "Dexter",
+            "Soft Skills": 2,
+            "Academic Skills": 6,
+            "Business Skills": 9
+        },
+        {
+            "name": "Carlos",
+            "Creative Skills": 9,
+            "Soft Skills": 1,
+            "Academic Skills": 1
+        },
+        {
+            "name": "Xander",
+            "Business Skills": 3,
+            "Academic Skills": 2,
+            "Creative Skills": 9,
+            "Soft Skills": 10
+        },
+        {
+            "name": "Olive",
+            "Academic Skills": 8,
+            "Technical Skills": 8,
+            "Creative Skills": 6,
+            "Business Skills": 10,
+            "Soft Skills": 8
+        },
+        {
+            "name": "Tabitha",
+            "Academic Skills": 3,
+            "Technical Skills": 8,
+            "Soft Skills": 10,
+            "Business Skills": 6,
+            "Creative Skills": 8
+        },
+        {
+            "name": "Ella",
+            "Business Skills": 4,
+            "Technical Skills": 9,
+            "Soft Skills": 9
+        },
+        {
+            "name": "Maureen",
+            "Soft Skills": 1,
+            "Academic Skills": 10,
+            "Technical Skills": 4,
+            "Creative Skills": 1
+        },
+        {
+            "name": "Wanda",
+            "Creative Skills": 4,
+            "Academic Skills": 5,
+            "Technical Skills": 8,
+            "Soft Skills": 3,
+            "Business Skills": 10
+        },
+        {
+            "name": "Angela",
+            "Academic Skills": 5,
+            "Technical Skills": 10,
+            "Business Skills": 9,
+            "Creative Skills": 2,
+            "Soft Skills": 10
+        }
+    ]
+}

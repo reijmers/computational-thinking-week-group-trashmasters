@@ -1,0 +1,11 @@
+Name,Technical Skills,Soft Skills,Business Skills,Creative Skills,Academic Skills,Summary,Evaluation
+Ken,super,middle,super,low,super,super,super,4
+Uma,low,low,low,super,middle,super,super,2.8
+Yara,low,low,low,middle,middle,low,low,2.4
+Karen,middle,low,middle,middle,low,middle,middle,2.6
+Dave,good,good,low,good,low,good,good,3.2
+Kristen,low,good,super,low,middle,super,super,3.2
+Paula,middle,low,middle,low,low,low,low,2.4
+Ursula,super,good,good,low,low,super,super,3.4
+Ivy,low,low,good,super,middle,super,super,3.2
+Roger,good,low,low,low,super,super,super,3
